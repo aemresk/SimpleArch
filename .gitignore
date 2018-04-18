@@ -57,3 +57,5 @@ Zandeross.Http/obj/Debug/Zandeross.Http.csproj.CopyComplete
 Zandeross.Http/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
 Zandeross.Http/bin/roslyn/csi.rsp
 Zandeross.UI/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+.vs/config/applicationhost.config
+.vs/
